@@ -13,5 +13,4 @@ int main(){
     cout << i<<"  " ;
     }
     cout<<"\n";
-    cout << "deque created"<<endl;
 }
